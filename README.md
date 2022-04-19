@@ -5,6 +5,3 @@ I'm Max, feel free to reach out to my email if you have any questions : maxkim@b
 
 Current Project:
 - Rest API returning CLI commands using C# and .Net Core
-
-My Website: 
-- https://maaxkimm.github.io/myportfolio/
